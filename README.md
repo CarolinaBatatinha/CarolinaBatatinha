@@ -1,9 +1,9 @@
 ### Olá! Eu sou Carolina Batatinha (sim, é sobrenome)
 
 - 📚 Atualmente estudando Análise e Desenvolvimento de Sistemas no Centro Universitário Senac
-- 💡 Linguagens em aprendizado: C# e Python
+- 💡 Linguagens em aprendizado: C#, Java e Python
 - 🙋‍♀️ Pronomes: ela/dela
-- ⚡ Fun fact: Sou formada em Medicina Veterinária e trabalhei na área por um bom tempo
+- ⚡ Fun fact: sou formada em Medicina Veterinária e trabalhei na área por um bom tempo
 
 ##
 ### Tecnologias com que tenho familiaridade:
@@ -14,6 +14,7 @@
   <img align="center" alt="Carol-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Carol-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Carol-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">  
+  <img align="center" alt="Carol-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
 </div>
 
 ##   
