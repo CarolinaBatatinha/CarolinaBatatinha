@@ -1,9 +1,9 @@
 ### Olá! Eu sou Carolina Batatinha (sim, é sobrenome)
 
-- 📚 Atualmente estudando Análise e Desenvolvimento de Sistemas no Centro Universitário Senac
+- 📚 Análise e Desenvolvimento de Sistemas pelo Centro Universitário Senac
 - 💡 Linguagens em aprendizado: C#, Python, SQL e Power BI
 - 🙋‍♀️ Pronomes: ela/dela
-- ⚡ Fun fact: sou formada em Medicina Veterinária e trabalhei na área por um bom tempo
+- ⚡ Fun fact: sou também formada em Medicina Veterinária e trabalhei na área por um bom tempo
 
 ##
 ### Tecnologias com que tenho familiaridade:
